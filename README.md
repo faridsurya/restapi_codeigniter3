@@ -12,7 +12,9 @@ REST API ini menggunakan library https://github.com/chriskacerguis/codeigniter-r
 
 Untuk mencoba aplikasi REST API, buka aplikasi REST Client Anda, misalnya RESTClient yang tersedia pada ekstensi Firefox.
 
-### GET
+**GET**
+
+![](https://live.staticflickr.com/65535/49736784898_979c79ed40_b.jpg)
 
 
 
