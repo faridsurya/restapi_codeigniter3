@@ -16,5 +16,17 @@ Untuk mencoba aplikasi REST API, buka aplikasi REST Client Anda, misalnya RESTCl
 
 ![](https://live.staticflickr.com/65535/49736784898_979c79ed40_b.jpg)
 
+**POST**
+
+![](https://live.staticflickr.com/65535/49737339301_64c9ebe473_b.jpg)
+
+**PUT**
+
+![](https://live.staticflickr.com/65535/49737671122_06c708ba98_b.jpg)
+
+**DELETE**
+
+![](https://live.staticflickr.com/65535/49737339216_2029e1871f_b.jpg)
+
 
 
