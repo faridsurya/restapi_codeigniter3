@@ -1,1 +1,18 @@
-# restapi_codeigniter3
+# REST API CODEIGNITER 3
+
+REST API ini menggunakan library https://github.com/chriskacerguis/codeigniter-restserver yang sudah siap untuk digunakan pada Codeigniter versi 3.
+
+## Pemasangan
+
+1. Pastikan Anda sudah memiliki aplikasi CI pada server lokal Anda. Kita asumsikan Anda menggunakan Xampp dan folder project CI anda adalah `rest-api`.
+2. Pindahkan semua folder pada repositori ini ke folder `rest-api/Application` aplikasi CI Anda
+3. Copy file rest.php yang ada pada folder `src/rest.php` ke folder `Application/config`
+
+## Penggunaan
+
+Untuk mencoba aplikasi REST API, buka aplikasi REST Client Anda, misalnya RESTClient yang tersedia pada ekstensi Firefox.
+
+### GET
+
+
+
