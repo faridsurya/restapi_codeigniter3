@@ -14,6 +14,11 @@ class Api extends BD_Controller {
         $this->load->helper(array('form', 'url'));
         
         date_default_timezone_set('Asia/Jakarta');
+	}
+	
+	public function status_get()
+    {
+    		$this->response('OK',200);
     }
     
 	public function data_get()

@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url']	= "http://api.sunhouse.co.id/sch/";
+$config['base_url']	= "http://localhost/rest-api/index.php/api/";
 //$config['base_url'] .= preg_replace('@/+$@','',dirname($_SERVER['SCRIPT_NAME'])).'/'; 
 
 /*
